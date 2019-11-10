@@ -1,0 +1,3 @@
+# projekt-I-poprawa
+Witryna przez mnie stworzona w ramach projektu miała spełniać określone kryteria. W związku z tym posiada ona klasyczny layout (menu, content i stopkę), jest responsywna (uzyskałam ten efekt dzięki Bootstrapowi), posiada siatkę zdjęć (zmienia ona swój układ w zależności od wielkości urządzenia, a najechanie kursorem na każde ze zdjęć powoduje animację - wyświetla się napis na 
+półprzezroczystym pasku) oraz formularz kontaktowy. W stopce umieściłam linki do Facebooka, Instagrama, Gmaila i GitHuba. Do wykonania projektu skorzystałam z HTML, CSS, a w celu nawigacji do odpwiednich divów po kliknięciu w dane hasła w menu - z jQuery. W przyszłości chciałabym, żeby witryna służyła jako moje portfolio - zamiast zdjęć dodałabym projekty.
